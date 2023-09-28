@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter your full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter your mobile</b></label>
     <input type="text" placeholder="Enter your moible number" name="mobile" id="mobile" required>
     <br>
 
@@ -16,7 +16,7 @@
     <input type="text" placeholder="Enter your Email id" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b>Enter your Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
