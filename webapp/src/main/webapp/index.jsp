@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning kubernetes 2.0</h1>
+    <h1>New user Register for DevOps Learning kubernetes latest</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter your Name</b></label>
+    <label for="Name"><b>Enter your full Name</b></label>
     <input type="text" placeholder="Enter your full Name" name="Name" id="Name" required>
     <br>
     
